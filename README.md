@@ -1,7 +1,7 @@
 <h1>
     <a  href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Recriando o Wikipedia com Layout Moderno - Formação HTML Web Developer, da DIO.</span>
+    <span>SITE ELABORADO DE ACORDO AS REGRAS Da DIO - Formação HTML Web Developer.</span>
 </h1>
 <h2>CLIQUE NA FIGURA PARA VISUALIZAR O SITE<h2>
     <h3>
